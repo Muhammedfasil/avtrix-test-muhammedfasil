@@ -79,7 +79,7 @@ Searching products :
         eg: http://localhost:8000/api/search/?product_name=Carrot
 
     
-    3. To get all products inh POST method, submit the form ion the following url without giving any data
+    3. To get all products in POST method, submit the form in the following url without giving any data
 
 
         http://localhost:8000/api/search
@@ -100,7 +100,7 @@ Searching products :
                     }
 
 
-    5. To implement pagination simply add "?page=<page_number>" in the end of url ( add the "page" parameter a querystring )
+    5. To use pagination simply add "?page=<page_number>" in the end of url ( add the "page" parameter a querystring )
 
 
         example :
@@ -123,4 +123,4 @@ Searching products :
 
             http://localhost:8000/api/search/?product_name=Carrot&page=3
 
-            
+
