@@ -14,6 +14,8 @@ Open the site:
     1. Go to http://localhost:8000 in your browser
     2. Admin credentials:
         username : admin
+        
+        
         password : As@12345
 
 Upload the data :
