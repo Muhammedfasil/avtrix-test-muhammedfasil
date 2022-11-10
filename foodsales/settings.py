@@ -122,3 +122,5 @@ USE_TZ = False
 
 STATIC_URL = '/static/'
 STATIC_ROOT = 'static'
+
+PAGINATION_COUNT = 5
